@@ -1,1 +1,1 @@
-# wize-gateway-builder
+Builder pour wize-gateway ARM64
