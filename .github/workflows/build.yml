@@ -9,7 +9,7 @@ jobs:
 
     steps:
       - name: Checkout wize-gateway
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
         with:
           repository: poupoune1982/wize-gateway
 
