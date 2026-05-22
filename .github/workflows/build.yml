@@ -11,7 +11,7 @@ jobs:
       - name: Checkout wize-gateway
         uses: actions/checkout@v4
         with:
-          repository: OpenWize/wize-gateway
+          repository: poupoune1982/wize-gateway
 
       - name: Install Rust
         uses: dtolnay/rust-toolchain@stable
